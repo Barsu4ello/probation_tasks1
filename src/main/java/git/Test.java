@@ -8,6 +8,7 @@ public class Test {
     }
 
     private static void f() {
+        System.out.println();
     }
 
 }
